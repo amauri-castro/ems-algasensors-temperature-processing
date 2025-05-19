@@ -1,7 +1,7 @@
 package com.amauri.algasensors.temperature.processing;
 
-import com.fasterxml.uuid.Generators;
-import com.fasterxml.uuid.impl.TimeBasedEpochRandomGenerator;
+import com.amauri.algasensors.temperature.processing.common.IdGenerator;
+import com.amauri.algasensors.temperature.processing.common.UUIDV7Utils;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 

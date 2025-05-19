@@ -1,4 +1,4 @@
-package com.amauri.algasensors.temperature.processing;
+package com.amauri.algasensors.temperature.processing.common;
 
 import com.fasterxml.uuid.Generators;
 import com.fasterxml.uuid.impl.TimeBasedEpochRandomGenerator;

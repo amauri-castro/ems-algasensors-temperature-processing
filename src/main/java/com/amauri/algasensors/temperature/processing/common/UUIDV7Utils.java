@@ -1,4 +1,4 @@
-package com.amauri.algasensors.temperature.processing;
+package com.amauri.algasensors.temperature.processing.common;
 
 import java.time.Instant;
 import java.time.OffsetDateTime;
